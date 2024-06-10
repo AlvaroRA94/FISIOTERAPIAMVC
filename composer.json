@@ -1,0 +1,22 @@
+{
+    "name": "user/fisioterapia",
+    "description": "Proyecto Web  Fisioterapia",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AlvaroR",
+            "email": "roldan.antequera@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4":{
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers"
+        }
+    }
+}
