@@ -2,7 +2,9 @@ html {
     font-size: 62.5%;
     box-sizing: border-box;
 }
-*, *:before, *:after {
+*,
+*:before,
+*:after {
     box-sizing: inherit;
 }
 body {
@@ -10,7 +12,8 @@ body {
     font-size: 1.6rem;
     line-height: 1.8;
 }
-p,li {
+p,
+li {
     color: $negro;
     font-size: 2rem;
 }
@@ -18,6 +21,15 @@ p,li {
     width: 95%;
     max-width: 120rem;
     margin: 0 auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    word-break: normal;
 }
 
 a {
@@ -30,12 +42,13 @@ picture {
     display: block;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: $fuente_principal;
     margin: calc($separacion / 2) 0;
     font-weight: 300;
     text-align: center;
-    
 }
 
 h1 {
