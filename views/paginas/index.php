@@ -41,8 +41,8 @@
                     </p>
 
                     <p>
-                        Un rápido repaso por todos y cada uno de los beneficios <br> principales que nos brinda este
-                        campo de la salud en el <br> bienestar físico y mental.
+                        Un rápido repaso por todos y cada uno de los beneficios principales que nos brinda este
+                        campo de la salud en el bienestar físico y mental.
                     </p>
                 </a>
             </div>
@@ -64,8 +64,8 @@
                     </p>
 
                     <p>
-                        Vamos a echar un vistazo a todas aquellas prácticas que <br> tenemos muy arraigadas en el día a
-                        día y que, sin darnos <br> cuenta, nos pueden llegar a producir lesiones <br> muy molestas. </p>
+                        Vamos a echar un vistazo a todas aquellas prácticas que tenemos muy arraigadas en el día a
+                        día y que, sin darnos cuenta, nos pueden llegar a producir lesiones muy molestas. </p>
                 </a>
             </div>
         </article>
@@ -76,8 +76,8 @@
 
         <div class="testimonial">
             <blockquote>
-                El personal me trató <br> excelentemente. <br> Muy buena atención, <br> estoy empezando a <br> notar
-                mejoría <br> después de una lesión en la espalda. <br> Muy recomendable.
+                El personal me trató excelentemente. Muy buena atención, estoy empezando a notar
+                mejoría después de una lesión en la espalda. Muy recomendable.
             </blockquote>
             <p>- José Fernández</p>
         </div>
