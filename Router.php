@@ -26,7 +26,7 @@ class Router
         // Array de rutas protegidas
         $rutas_protegidas = ['/admin', '/servicios/crear', '/servicios/actualizar', '/servicios/eliminar', '/fisioterapeutas/crar', '/fisioterapeutas/actualizar', '/fisioterapeutas/eliminar'];
 
-        $urlActual = $_SERVER['PATH_INFO'] ?? '/';
+        $urlActual = strtok($_SERVER['REQUEST_URI'], '?') ?? '/';
         $metodo = $_SERVER['REQUEST_METHOD'];
 
         if ($metodo === 'GET') {
