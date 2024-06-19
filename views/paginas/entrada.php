@@ -1,5 +1,5 @@
 <main class="contenedor seccion contenido-centrado">
-    <h1>Guía para la decoración de tu hogar</h1>
+    <h1>Entrada de Blog</h1>
 
 
     <picture>
